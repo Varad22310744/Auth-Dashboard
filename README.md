@@ -56,5 +56,4 @@ The project demonstrates authentication, protected routes, and CRUD operations w
 
 ---
 
-## 📂 Project Structure
 
